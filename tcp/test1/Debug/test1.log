@@ -1,0 +1,4 @@
+﻿  server.cpp
+c:\documents\visual studio 2015\projects\tcp\test1\server.cpp(55): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int (__stdcall *)(void)'
+  test1.vcxproj -> C:\Documents\Visual Studio 2015\Projects\tcp\Debug\server.exe
+  test1.vcxproj -> C:\Documents\Visual Studio 2015\Projects\tcp\Debug\server.pdb (Partial PDB)

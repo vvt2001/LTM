@@ -1,0 +1,8 @@
+﻿  Server.cpp
+d:\documents\visual studio 2015\projects\testselect\client\server.cpp(84): warning C4101: 'sendBuff': unreferenced local variable
+d:\documents\visual studio 2015\projects\testselect\client\server.cpp(80): warning C4101: 'client': unreferenced local variable
+d:\documents\visual studio 2015\projects\testselect\client\server.cpp(310): warning C4778: 'printf' : unterminated format string '%'
+d:\documents\visual studio 2015\projects\testselect\client\server.cpp(310): warning C4474: 'printf' : too many arguments passed for format string
+  d:\documents\visual studio 2015\projects\testselect\client\server.cpp(310): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  testBuoi7.vcxproj -> D:\Documents\Visual Studio 2015\Projects\testSelect\Debug\Server.exe
+  testBuoi7.vcxproj -> D:\Documents\Visual Studio 2015\Projects\testSelect\Debug\Server.pdb (Partial PDB)

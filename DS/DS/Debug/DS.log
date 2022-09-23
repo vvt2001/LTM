@@ -1,0 +1,8 @@
+﻿  hellos.c
+c:\documents\visual studio 2015\projects\ds\ds\hellos.c(24): error C2065: 'hello_ServerIfHandle': undeclared identifier
+c:\documents\visual studio 2015\projects\ds\ds\hellos.c(24): warning C4022: 'RpcServerRegisterIf': pointer mismatch for actual parameter 1
+  helloc.c
+c:\documents\visual studio 2015\projects\ds\ds\helloc.c(28): error C2065: 'hello_ClientIfHandle': undeclared identifier
+c:\documents\visual studio 2015\projects\ds\ds\helloc.c(28): warning C4047: 'function': 'RPC_BINDING_HANDLE *' differs in levels of indirection from 'int *'
+c:\documents\visual studio 2015\projects\ds\ds\helloc.c(28): warning C4022: 'RpcBindingFromStringBindingA': pointer mismatch for actual parameter 2
+  Generating Code...

@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (testHW.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  server.cpp
+d:\documents\visual studio 2015\projects\testhw\testhw\server.cpp(17): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio 2015\projects\testhw\testhw\server.cpp(81): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int (__stdcall *)(void)'
+  testHW.vcxproj -> D:\Documents\Visual Studio 2015\Projects\testHW\Debug\server.exe
+  testHW.vcxproj -> D:\Documents\Visual Studio 2015\Projects\testHW\Debug\server.pdb (Partial PDB)

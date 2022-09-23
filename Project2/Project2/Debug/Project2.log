@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  client.cpp
+c:\documents\visual studio 2015\projects\project2\project2\client.cpp(201): warning C4101: 'buff': unreferenced local variable
+c:\documents\visual studio 2015\projects\project2\project2\client.cpp(254): warning C4101: 'buff': unreferenced local variable
+c:\documents\visual studio 2015\projects\project2\project2\client.cpp(372): warning C4715: 'thread1': not all control paths return a value
+c:\documents\visual studio 2015\projects\project2\project2\client.cpp(309): warning C4715: 'thread': not all control paths return a value
+c:\documents\visual studio 2015\projects\project2\project2\client.cpp(427): warning C4715: 'thread2': not all control paths return a value
+  Project2.vcxproj -> C:\Documents\Visual Studio 2015\Projects\Project2\Debug\client.exe
+  Project2.vcxproj -> C:\Documents\Visual Studio 2015\Projects\Project2\Debug\client.pdb (Partial PDB)

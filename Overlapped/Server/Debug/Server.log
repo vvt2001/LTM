@@ -1,0 +1,5 @@
+﻿  Server.cpp
+d:\documents\visual studio 2015\projects\overlapped\server\server.cpp(25): warning C4091: 'typedef ': ignored on left of 'SocketInfo' when no variable is declared
+d:\documents\visual studio 2015\projects\overlapped\server\server.cpp(78): warning C4101: 'ret': unreferenced local variable
+  Server.vcxproj -> d:\documents\visual studio 2015\Projects\Overlapped\Debug\Server.exe
+  Server.vcxproj -> d:\documents\visual studio 2015\Projects\Overlapped\Debug\Server.pdb (Partial PDB)

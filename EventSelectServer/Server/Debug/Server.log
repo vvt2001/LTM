@@ -1,0 +1,5 @@
+﻿  Server.cpp
+d:\documents\visual studio 2015\projects\eventselectserver\server\server.cpp(134): warning C4101: 'i': unreferenced local variable
+d:\documents\visual studio 2015\projects\eventselectserver\server\server.cpp(338): warning C4101: 'ret': unreferenced local variable
+  Server.vcxproj -> D:\Documents\Visual Studio 2015\Projects\EventSelectServer\Debug\Server.exe
+  Server.vcxproj -> D:\Documents\Visual Studio 2015\Projects\EventSelectServer\Debug\Server.pdb (Partial PDB)

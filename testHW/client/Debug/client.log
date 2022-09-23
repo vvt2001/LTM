@@ -1,0 +1,4 @@
+﻿  client.cpp
+d:\documents\visual studio 2015\projects\testhw\client\client.cpp(194): warning C4101: 'buff': unreferenced local variable
+  client.vcxproj -> D:\Documents\Visual Studio 2015\Projects\testHW\Debug\client.exe
+  client.vcxproj -> D:\Documents\Visual Studio 2015\Projects\testHW\Debug\client.pdb (Partial PDB)

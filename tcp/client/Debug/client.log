@@ -1,0 +1,6 @@
+﻿  client.cpp
+c:\documents\visual studio 2015\projects\tcp\client\client.cpp(324): warning C4101: 'buff': unreferenced local variable
+c:\documents\visual studio 2015\projects\tcp\client\client.cpp(325): warning C4101: 'messageLen': unreferenced local variable
+c:\documents\visual studio 2015\projects\tcp\client\client.cpp(325): warning C4101: 'ret': unreferenced local variable
+  client.vcxproj -> C:\Documents\Visual Studio 2015\Projects\tcp\Debug\client.exe
+  client.vcxproj -> C:\Documents\Visual Studio 2015\Projects\tcp\Debug\client.pdb (Partial PDB)
